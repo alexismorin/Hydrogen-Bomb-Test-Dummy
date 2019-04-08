@@ -7,7 +7,8 @@ Do you want to take control of a crash test dummy and run around as your plastic
   - Ragdolls!
   - Explosions!
   - A minimalist, Katamari Damacy-esque aesthetics!
-  - Simple round based system with entreprising developers
+  - Simple round based system that entreprising developers can modify as they please.
+  - Clean third person controls.
  
 ![infoImage](/images/info.png)
 
